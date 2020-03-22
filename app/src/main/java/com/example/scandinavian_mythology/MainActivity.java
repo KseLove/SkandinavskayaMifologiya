@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
             switch (position) {
                 case 0: fileName = "gods.json"; break;
                 case 1: fileName = "goddesses.json"; break;
+                case 5: fileName = "race.json"; break;
+
                 default: fileName = "";
             }
 
