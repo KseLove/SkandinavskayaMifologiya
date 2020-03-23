@@ -7,5 +7,9 @@
         <item>Мифы</item>
         <item>Великаны</item>
         <item>Расы</item>
+        <item>Миры</item>
+        <item>Артефакты</item>
+        <item>Порождения</item>
+        <item>Разное</item>
     </string-array>
 </resources>
